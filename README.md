@@ -57,5 +57,6 @@
 <code><img height="40" src="https://cdn.svgporn.com/logos/figma.svg"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/invision.svg"></code>
 
+<p>Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [ihajar](https://github.com/ihajar)
+💜 From [ihajar](https://github.com/ihajar)
